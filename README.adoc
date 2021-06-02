@@ -1,0 +1,9 @@
+= Ska Vectors
+
+En este repo se encontraran ilustraciones vectoriales relacionadas con el ska.
+
+El primer trabajo realizado es una intervención al escudo de Colombia,
+adaptandolo al estilo del arte en el ska.
+
+image::https://github.com/afmorenosa/ska_vectors/blob/main/Escudo/Escudo.svg[escudo, 300]
+image::https://github.com/afmorenosa/ska_vectors/blob/main/Escudo/Escudo_circulo.svg[escudo-circulo, 300]
